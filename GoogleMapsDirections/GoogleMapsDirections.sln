@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMapsDirections", "GoogleMapsDirections\GoogleMapsDirections.csproj", "{6BDE2001-742B-4F25-8664-5271C65E5E39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.Debug|iPhone.Build.0 = Debug|iPhone
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.Release|iPhone.ActiveCfg = Release|iPhone
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.Release|iPhone.Build.0 = Release|iPhone
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{6BDE2001-742B-4F25-8664-5271C65E5E39}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
